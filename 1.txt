@@ -1,0 +1,4 @@
+http://localhost/subscriptionBox/home.php
+
+email: snackbox499@gmail.com
+password: 123
